@@ -1,3 +1,1 @@
-this is test for readme
-
-Haipeng is the coolest
+This is Prompt Engineering App to assit programmers improve their codes
